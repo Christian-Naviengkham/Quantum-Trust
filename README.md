@@ -1,4 +1,4 @@
-<img width="4032" height="1035" alt="image" src="https://github.com/user-attachments/assets/4ae9677f-3fdd-48c6-a1dc-ed97b52eb037" /># Quantum Trust
+# Quantum Trust
 
 Quantum Trust is a two-player strategy game combining classical game theory with quantum mechanics. Players compete by choosing how much to trust one another, with their decisions encoded into quantum circuits that determine the outcome of each round.
 
@@ -41,7 +41,7 @@ Rather than calculating scores from the entire probability distribution, the gam
 
 A predefined payoff dictionary maps the selected measurement outcome to the corresponding changes in each player's score. Scores are updated accordingly, and the game proceeds to the next round.
 
-<img width="4032" height="1035" alt="image" src="https://github.com/user-attachments/assets/0559b99d-4a33-4879-a46e-58b7532838de" />
+<img width="4032" height="1035" alt="image" src="https://github.com/user-attachments/assets/4ae9677f-3fdd-48c6-a1dc-ed97b52eb037" />
 
 This approach retains quantum measurement statistics while using the dominant outcome to produce a straightforward competitive game.
 
